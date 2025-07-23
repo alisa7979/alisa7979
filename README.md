@@ -1,14 +1,68 @@
+# 👋 안녕하세요! I'm Alisa (안리사) 🌸
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=alisa7979&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+Welcome to my GitHub profile — where code meets creativity! I'm a **student developer**, **system tinkerer**, and an **AI and robotics enthusiast**. I love building things that blend **hardware** and **software**, especially at the intersection of **embedded systems**, **operating systems**, and **natural language processing** 🤖💡.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=alisa7979&icon=0&color=12)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧰 Tech Toolbox
+
+Here’s a glimpse of the languages, tools, and frameworks I enjoy using:
+
+![My Skills](https://skillicons.dev/icons?i=py,c,cpp,linux,bash,arduino,git,github,vscode,mysql,html,css,matlab)
+
+- 💻 **Languages:** Python, C, ARM Assembly, Bash, JavaScript (a bit), SQL
+- ⚙️ **Systems & Tools:** Linux, UART, Netfilter, eBPF/XDP, Zynq SoC, Private Timers
+- 📦 **Libraries & Frameworks:** KoNLPy, Matplotlib, Tkinter, Flask (learning!), TensorFlow (dabbling)
+- 🧪 **Academic Interests:** Operating systems, system programming, low-level debugging, robotics, NLP
+- 🖌️ **Creative Coding:** Word clouds, meme bots, UI/UX with Tkinter
+
+---
+
+## 🌱 What I'm Currently Learning
+
+- 🧠 Deepening my understanding of **ARM architecture** and **interrupt controllers**
+- 🧪 Experimenting with **AI-powered robotics** using microcontrollers
+- 💬 Playing with **NLP** and **Korean language datasets**
+- 🕸️ Building a personal **portfolio website**
+
+---
+
+## 📈 GitHub Stats
+
+![Alisa's GitHub stats](https://github-readme-stats.vercel.app/api?username=anlisa&show_icons=true&theme=tokyonight&hide=issues)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anlisa&layout=compact&theme=tokyonight)
+
+---
+
+## 🧠 Fun Projects
+
+✨ **[UART LED Controller](https://github.com/your-repo)** — LED cycling with switch-controlled delays via ARM bare-metal code  
+🧠 **[Word Cloud from Naver News](https://github.com/your-repo)** — Korean NLP with custom stopwords and visualization  
+⌚ **Digital Watch on ZedBoard** — Prints time over UART using private timer interrupts  
+🧹 **[EXT4 vs. BTRFS Write Comparison](https://github.com/your-repo)** — Real-time Linux FS performance monitor  
+🎨 **GUI Calculator in Tkinter** — Cute, pastel-colored calculator with expression parsing  
+
+---
+
+## 🎯 Fun Facts
+
+- 💬 Fluent in English, Russian, and Korean
+- ✍️ I write technical notes and guides to teach others (and future me)
+- 🍜 Fuel: Kimchi jjigae, coffee, and memes
+- 🎮 Sometimes I build tools just to help **organize my own chaos** (and yours too, maybe)
+
+---
+
+## 📫 Let’s Connect!
+
+I'm always excited to collaborate or learn from others!
+
+[![Gmail](https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourname/)
+[![Portfolio](https://img.shields.io/badge/portfolio-%23ff69b4.svg?&style=for-the-badge&logo=notion&logoColor=white)](https://yourwebsite.com)
+
+---
+
+_“Systems whisper to me, and I whisper back in assembly.”_ 🧾
+
