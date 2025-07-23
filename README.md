@@ -29,8 +29,6 @@ Here’s a glimpse of the languages, tools, and frameworks I enjoy using:
 
 ## 📈 GitHub Stats
 
-![Alisa's GitHub stats](https://github-readme-stats.vercel.app/api?username=alisa7979&show_icons=true&theme=tokyonight&hide=issues)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alisa7979&layout=compact&theme=tokyonight)
 
 ---
