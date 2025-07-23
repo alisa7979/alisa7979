@@ -1,4 +1,4 @@
-Hi! I'm Alisa 🦋
+## 🦋 Hi! I'm Alisa 🦋
 
 Welcome to my GitHub profile — where code meets creativity! I'm a **student developer**, **system tinkerer**, and an **AI and robotics enthusiast**. I love building things that blend **hardware** and **software**, especially at the intersection of **embedded systems**, **operating systems**, and **natural language processing** 🤖💡.
 
