@@ -35,11 +35,10 @@ Here’s a glimpse of the languages, tools, and frameworks I enjoy using:
 
 ## 🧠 Fun Projects
 
-✨ **[UART LED Controller](https://github.com/your-repo)** — LED cycling with switch-controlled delays via ARM bare-metal code  
-🧠 **[Word Cloud from Naver News](https://github.com/your-repo)** — Korean NLP with custom stopwords and visualization  
-⌚ **Digital Watch on ZedBoard** — Prints time over UART using private timer interrupts  
-🧹 **[EXT4 vs. BTRFS Write Comparison](https://github.com/your-repo)** — Real-time Linux FS performance monitor  
-🎨 **GUI Calculator in Tkinter** — Cute, pastel-colored calculator with expression parsing  
+✨ **[UART LED Controller](https://github.com/alisa7979/LED_toggle)** — LED cycling with switch-controlled delays via ARM bare-metal code  
+🧠 **[Word Cloud from Naver News]()** — Korean NLP with custom stopwords and visualization  
+⌚ **[Digital Watch on ZedBoard](https://github.com/alisa7979/timer_tera)** — Prints time over UART using private timer interrupts  
+🎨 **[GUI Calculator in Tkinter](https://github.com/alisa7979/Mycalc)** — Cute, pastel-colored calculator with expression parsing  
 
 ---
 
