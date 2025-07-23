@@ -8,7 +8,7 @@ Welcome to my GitHub profile — where code meets creativity! I'm a **student de
 
 Here’s a glimpse of the languages, tools, and frameworks I enjoy using:
 
-![My Skills](https://skillicons.dev/icons?i=py,c,cpp,linux,bash,arduino,git,github,vscode,mysql,html,css,matlab)
+![My Skills](https://skillicons.dev/icons?i=py,c,cpp,linux,bash,ros,arduino,git,github,vscode,mysql,html,css,matlab)
 
 - 💻 **Languages:** Python, C, ARM Assembly, Bash, JavaScript (a bit), SQL
 - ⚙️ **Systems & Tools:** Linux, UART, Netfilter, eBPF/XDP, Zynq SoC, Private Timers
