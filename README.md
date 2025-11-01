@@ -1,6 +1,5 @@
 ## 🦋 Hi! I'm Alisa 🦋
 
-Welcome to my GitHub profile — where **robots learn to think** and **code meets creativity**!
 I’m a **student developer**, **robotics engineer in training**, and **AI enthusiast** passionate about bridging the gap between **hardware** and **intelligence**.
 
 I’m part of the **Kasimov AI & Robotics Team** at **Korea University**, where we explore how autonomous systems can perceive, learn, and interact with the real world.
