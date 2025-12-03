@@ -1,4 +1,4 @@
-## 🦋 Hi! I'm Alisa 🦋
+## Hi! I'm Alisa
 
 I’m a **student developer**, **robotics engineer in training**, and **AI enthusiast** passionate about bridging the gap between **hardware** and **intelligence**.
 
@@ -7,7 +7,7 @@ Currently, I’m also an **global intern at Daewoong**, working on automation an
 
 ---
 
-## 🤖 Research & Technical Focus
+## Research & Technical Focus
 
 My work and interests revolve around the intersection of **robotics**, **embedded systems**, and **AI-driven control**.
 I love building systems that *sense, think, and act* — whether that’s through real-time programming, low-level optimization, or natural language interaction.
